@@ -1,5 +1,3 @@
-package org.MSC_BOT;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;

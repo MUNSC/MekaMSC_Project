@@ -1,4 +1,4 @@
-package org.MSC_BOT;
+package response;
 
 import net.dv8tion.jda.api.events.guild.GuildReadyEvent;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;

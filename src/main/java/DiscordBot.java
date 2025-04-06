@@ -1,7 +1,8 @@
-package org.MSC_BOT;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.requests.GatewayIntent;
+import response.ChattingReaction;
+import response.SlashCommandReaction;
 
 import java.util.EnumSet;
 
